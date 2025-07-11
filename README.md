@@ -7,7 +7,7 @@ Welcome to **Café Delight**, a responsive and elegant coffee shop website built
 
 ## 🌐 Live Preview
 
-[🔗 View Live Site](#) <!-- Replace with your deployed link -->
+[🔗 https://coffee-shop-website-sepia.vercel.app](#) <!-- Replace with your deployed link -->
 
 ---
 
